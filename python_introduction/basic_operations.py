@@ -14,4 +14,3 @@ print(f"Subtraction of {number1} and {number2} is {difference}")
 product = number1 * number2
 print(f"Multiplication of {number1} and {number2} is {product}")
 
-
